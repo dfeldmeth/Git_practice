@@ -3,6 +3,7 @@
 using namespace std;
 
 // This comment is new
+// this is another new comment
 class Odometer {
 private:
 double _miles;
